@@ -1,2 +1,2 @@
 # YieldCurve
-Yield Curve Introduction
+Yield curve is the term structure of interest rate yields-to-maturity. Yield curve is widely regarded as the best proxy for risk-free curve and benchmark curve. Yield curves can be derived from government bonds or LIBOR/swap instruments. The LIBOR/swap term structure offers several advantages over government curves, and is a robust tool for pricing and hedging financial products.  Correlations among governments and other fixed-income products have declined, making the swap term structure a more efficient hedging and pricing vehicle.
