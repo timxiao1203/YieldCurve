@@ -8,5 +8,8 @@ Yield curve is widely regarded as the best proxy for risk-free curve and benchma
 
 Liquidity of underlying instrumennts is crucial. Since the swap market is a very liquid market with narrow bid-ask spreads and a wide selection of maturities, yield curves derived from swap curves offer several advantages over government curves (e.g., treasury yield curve). With the supply of government bond issues declining, yield curves are mainly bootstrapped from swap curves.
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqPerform.html
+
+https://bitbucket.org/timxiao1203/ircurve/downloads/IrCurve-2.pdf
