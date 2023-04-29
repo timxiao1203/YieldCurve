@@ -11,5 +11,3 @@ Liquidity of underlying instrumennts is crucial. Since the swap market is a very
 References:
 
 https://finpricing.com/lib/EqPerform.html
-
-https://bitbucket.org/timxiao1203/ircurve/downloads/IrCurve-2.pdf
